@@ -1,5 +1,5 @@
 # Netflix-EDA-Pandas-Matplotlib
-# 🎬 Netflix EDA using Pandas & Matplotlib  
+# Netflix EDA using Pandas & Matplotlib  
 
 This project explores Netflix's dataset using **Exploratory Data Analysis (EDA)** with **Pandas** and **Matplotlib**.  
 The main goal is to find insights about Netflix movies and TV shows based on their **type, release year, duration, rating, and country**.
@@ -15,7 +15,7 @@ Visualized trends using **Matplotlib** bar charts and histograms.
 ---
 
 ()Skills Used  
-- Python 🐍  
+- Python 
 - Pandas for data cleaning and manipulation  
 - Matplotlib for data visualization  
 - Exploratory Data Analysis (EDA)  
